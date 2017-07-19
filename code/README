@@ -1,0 +1,13 @@
+## Instructions
+
+Navigate to the folder and run python
+$~ code/test_predict.py
+
+to run the model on the test set
+
+$~ code/predict_blind.py
+
+to run the model on the blind set
+
+# Software Versions
+python 3.6.0
