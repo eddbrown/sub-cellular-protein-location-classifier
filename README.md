@@ -4,4 +4,4 @@ This project uses an SVM to predict the sub-cellular location of proteins within
 
 https://github.com/eddbrown/sub-cellular-protein-location-classifier/blob/master/report.pdf
 
-https://docs.google.com/viewer?url=https://github.com/eddbrown/sub-cellular-protein-location-classifier/blob/master/report.pdf
+http://nbviewer.jupyter.org/github/eddbrown/sub-cellular-protein-location-classifier/blob/master/report.pdf
